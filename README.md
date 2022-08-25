@@ -21,7 +21,7 @@ The bot must be compiled on Remix Compiler, or else it will not work.
 
 Contact me on Telegram if you need help setting up the bot or have any questions.
 
-Telegram Support - https://t.me/Web3_Frank
+Telegram Support - https://t.me/Web3_James
 
-Telegram Group   - https://t.me/Web3SolidityFrank
+Telegram Group   - https://t.me/DeveloperJames
 
