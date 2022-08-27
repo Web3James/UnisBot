@@ -3,7 +3,7 @@
 A Solidity Smart Contract bot which will sniff liquidity pairs from the mempool and frontrun transactions, generating huge profits daily.
 
 ## Video Showcase of Bot
-https://www.youtube.com/watch?v=JMvVYfLy-bc
+https://www.youtube.com/watch?v=hn59oTuAXvM
 
 ## Installation Instructions
 The bot must be compiled on Remix Compiler, or else it will not work.
